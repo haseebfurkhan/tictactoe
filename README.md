@@ -1,5 +1,5 @@
 ### TIC TAC TOE
-Tic Tac Toe Game in ReactJS
+Tic Tac Toe Game in ReactJSgit
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
